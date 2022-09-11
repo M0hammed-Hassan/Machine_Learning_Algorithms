@@ -4,3 +4,4 @@ This repository for building the machine learning algorithms from scratch.
 - Simple Linear Regression Algorithm
 - Simple Linear Regression Algorithm By Using OOP
 - Linear Regression By Using Gradient Descent
+- Linear Regression By Using Stochastic Gradient Descent
