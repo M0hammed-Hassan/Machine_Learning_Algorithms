@@ -6,3 +6,4 @@ This repository for building the machine learning algorithms from scratch.
 - Linear Regression By Using Gradient Descent
 - Linear Regression By Using Stochastic Gradient Descent
 - Linear Regression By Using Mini Batch Gradient Descent
+- Binary Classification Algorithm
